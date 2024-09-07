@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amydxa
-- 👀 I’m interested in programming and fashion
+- 👀 I’m interested in programming and cybersecurity
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me my email is amy.diapro@gmail.com
